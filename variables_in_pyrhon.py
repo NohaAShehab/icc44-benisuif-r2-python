@@ -82,3 +82,18 @@ print(res)
 print(True and "iti" and 2000 and 10)
 
 print("iti" or "ahmed" or 10000000000000000)
+
+
+print(bool("              "))
+
+
+
+name = 'ali'
+if name =='noha':
+    print("Hiii")
+elif name =='ahmed':
+    print("Hello")
+elif name=='ali':
+    print("---- Welcome ")
+else:
+    print("byeee")
