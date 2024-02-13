@@ -15,8 +15,8 @@
 # print(res)
 
 """ function do somthing """
-# def sayhello():
-#     print("Hello from Ghaza")
+def sayhello():
+    print("Hello from Ghaza")
 #
 # sayhello()
 
